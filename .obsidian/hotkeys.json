@@ -24,7 +24,16 @@
       "key": "Tab"
     }
   ],
-  "highlightr-plugin:Pink": [
+  "copilot:chat-toggle-window-note-area": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
+  ],
+  "highlightr-plugin:Purple": [
     {
       "modifiers": [
         "Mod",

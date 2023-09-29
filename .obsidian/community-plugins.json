@@ -4,5 +4,6 @@
   "obsidian-excalidraw-plugin",
   "highlightr-plugin",
   "obsidian-tasks-plugin",
-  "obsidian-git"
+  "obsidian-discordrpc",
+  "image-converter"
 ]

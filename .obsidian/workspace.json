@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f93e0ee7ef637119",
+            "id": "67b061335830184f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Primer examen de lineal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.00418853759766
+    "width": 200
   },
   "right": {
     "id": "b4fb8a5e962527b3",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Primer examen de lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Primer examen de lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,23 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0692aa41dcbc623",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
+              "state": {
+                "file": "Primer examen de lineal.md"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 342
+    "width": 235,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +148,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f93e0ee7ef637119",
-  "lastOpenFiles": []
+  "active": "67b061335830184f",
+  "lastOpenFiles": [
+    "media/WhatsApp Image 2023-09-28 at 8.05.30 PM.jpeg",
+    "media/README.md",
+    "Primer examen de lineal.md",
+    "media",
+    "media/WhatsApp Image 2023-09-28 at 9.47.17 PM.jpeg",
+    "media/WhatsApp Image 2023-09-28 at 9.47.15 PM.jpeg",
+    "media/WhatsApp Image 2023-09-28 at 9.27.43 PM 1.jpeg",
+    "media/WhatsApp Image 2023-09-28 at 9.27.43 PM.jpeg",
+    "media/WhatsApp Image 2023-09-28 at 9.05.03 PM.jpeg"
+  ]
 }
